@@ -14,17 +14,21 @@
   <a href="#"><img src="https://img.shields.io/badge/Hobby-Music-red?style=for-the-badge&logo=spotify"></a>
 </p>
 
----
+<hr />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nimishbhargav&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Nimishbhargav/Nimishbhargav/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimishbhargav&theme=radical&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimishbhargav&layout=compact&theme=radical" />
+</p>
+
+<hr />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nimishbhargav&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
