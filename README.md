@@ -20,9 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nimishbhargav&show_icons=true&theme=radical" />
 </p>
 
-
-
-
+<p align="center">
+  <img src="https://github.com/Nimishbhargav/Nimishbhargav/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
 
