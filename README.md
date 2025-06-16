@@ -27,12 +27,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-<p align="center">
-<img src="https://github.com/Nimishbhargav/Nimishbhargav/blob/output/github-contribution-grid-snake.svg" />
-
-</p>
 
 ---
 
