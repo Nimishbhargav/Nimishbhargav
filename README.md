@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/YOUR-BANNER.png" width="100%">
+<img src="https://raw.githubusercontent.com/Nimishbhargav/Nimishbhargav-/main/banner.png.png" width="100%">
 
 <h1 align="center">Hi there 👋, I'm Nimish Bhargav</h1>
 
