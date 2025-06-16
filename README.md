@@ -17,17 +17,26 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimishbhargav&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimishbhargav&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimishbhargav&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimishbhargav&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimishbhargav&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimishbhargav&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Nimishbhargav/Nimishbhargav/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ## 💖 Romantic Secret Message
+
 > _If you're reading this, destiny brought you here 💖_
 
 ---
