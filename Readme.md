@@ -19,7 +19,7 @@
 
 | Project Name | Tech | Preview |
 |--------------|------|---------|
-| [🎧 JARVIS Start Homepage](https://github.com/Nimishbhargav/jarvis-start) | HTML/CSS/JS | JARVIS-style animated dashboard |
+| [Portfolio-Website](https://nimish-bhargav.vercel.app/| HTML/CSS/JS | JARVIS-style animated dashboard |
 | [📄 AI Resume + GitHub Generator](https://github.com/Nimishbhargav/ai-resume-generator) | Python + OpenAI | CLI tool that builds resume + README |
 | [⏳ Goal Tracker + Pomodoro App](https://github.com/Nimishbhargav/pomodoro-goals) | Python | Productivity booster with stats |
 | [🎂 Birthday Surprise Website](https://github.com/Nimishbhargav/surprise-birthday-site) | HTML/CSS/JS | Heartfelt animation surprise 💖 |
