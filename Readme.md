@@ -43,9 +43,8 @@
 
 ### 🌐 Let’s Connect
 
-<p align="center"
-  <a href="https://instagram.com/nimish_bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimish_bhargav" height="30" width="40" /></a>
-  <a href="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white", mailto:nimishbhargav.dev@gmail.com  /></a>                                                     
+<p align="left">
+<a href="https://instagram.com/nimish_bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimish_bhargav" height="30" width="40" /></a>
 </p>
 
 ---
