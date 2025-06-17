@@ -44,7 +44,7 @@
 ### 🌐 Let’s Connect
 
 <p align="center
-  <a href="https://instagram.com/nimish_bhargav"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.instagram.com/nimish_bhargav"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
   <a href="mailto:nimishbhargav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
