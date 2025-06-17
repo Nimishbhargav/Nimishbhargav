@@ -45,9 +45,7 @@
 
 <p align="center"
   <a href="https://instagram.com/nimish_bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimish_bhargav" height="30" width="40" /></a>
-  <a href="mailto:nimishbhargav.dev@gmail.com" target="blank"><img align="left"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
-     generator/master/src/images/Social/gmail.svg" alt="nimishbhargav.dev@gmail.com" height="30" width="40" /></a>                                                           
+  <a href="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white", mailto:nimishbhargav.dev@gmail.com  /></a>                                                     
 </p>
 
 ---
