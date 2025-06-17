@@ -20,9 +20,9 @@
 | Project Name | Tech | Preview |
 |--------------|------|---------|
 | [Portfolio-Website](https://nimish-bhargav.vercel.app/)| HTML/CSS/JS | JARVIS-style animated dashboard |
-| [📄 AI Resume + GitHub Generator](https://github.com/Nimishbhargav/ai-resume-generator) | Python + OpenAI | CLI tool that builds resume + README |
-| [⏳ Goal Tracker + Pomodoro App](https://github.com/Nimishbhargav/pomodoro-goals) | Python | Productivity booster with stats |
-| [🎂 Birthday Surprise Website](https://github.com/Nimishbhargav/surprise-birthday-site) | HTML/CSS/JS | Heartfelt animation surprise 💖 |
+| [Google-Homepage-Redesigned](https://google-homepage-lovat-chi.vercel.app/) | HTML/CSS/JS |Galaxy-themed-google-homepage |
+| [special-gift(For someone special)](https://something-special-bay.vercel.app/) |HTML/CSS/JS | something-special-for-someone-special |
+| [🎂 Birthday Surprise Website](https://birthday-lime-theta.vercel.app/) | HTML/CSS/JS | Heartfelt animation surprise 💖 |
 
 ---
 
