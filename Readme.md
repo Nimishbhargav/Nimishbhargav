@@ -8,7 +8,7 @@
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,git,vscode,react,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode," />
 </p>
 
 ---
@@ -43,10 +43,9 @@
 
 ### 🌐 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+<p align="center
+  <a href="https://instagram.com/nimish_bhargav"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="mailto:nimishbhargav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
