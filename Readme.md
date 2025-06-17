@@ -17,9 +17,9 @@
 
 | Project Name | Tech | Preview |
 |--------------|------|---------|
-| [Portfolio-Website](https://nimish-bhargav.vercel.app/)| HTML/CSS/JS | JARVIS-style animated dashboard |
-| [Google-Homepage-Redesigned](https://google-homepage-lovat-chi.vercel.app/) | HTML/CSS/JS |Galaxy-themed-google-homepage |
-| [special-gift(For someone special)](https://something-special-bay.vercel.app/) |HTML/CSS/JS | something-special-for-someone-special |
+| [📂Portfolio-Website](https://nimish-bhargav.vercel.app/)| HTML/CSS/JS | JARVIS-style animated dashboard |
+| 🌐[Google-Homepage-Redesigned](https://google-homepage-lovat-chi.vercel.app/) | HTML/CSS/JS |Galaxy-themed-google-homepage |
+| [🎁special-gift(For someone special)](https://something-special-bay.vercel.app/) |HTML/CSS/JS | something-special-for-someone-special |
 | [🎂 Birthday Surprise Website](https://birthday-lime-theta.vercel.app/) | HTML/CSS/JS | Heartfelt animation surprise 💖 |
 
 ---
