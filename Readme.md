@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Banner" style="width:100%;display:block;margin:auto;" />
 <h1 align="center">Hi 👋, I'm Nimish Bhargav</h1>
 <h3 align="center">💻 Developer | 🎨 Frontend Artist | 🚀 Lifelong Learner</h3>
 
