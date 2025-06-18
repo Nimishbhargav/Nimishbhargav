@@ -2,7 +2,7 @@
 <h3 align="center">💻 Developer | 🎨 Frontend Artist | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&width=435&lines=Crafting+interactive+web+experiences.;Building+AI-powered+projects.;Turning+ideas+into+code+%F0%9F%92%A1" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&random=true&width=435&lines=Turning+ideas+into+code+++%F0%9F%92%A1;Rafting+interactive+web+experience;Building+AI-Powered+Projects." alt="Typing SVG" /></a>
 </p>
 
 ---
