@@ -2,13 +2,15 @@
 <h3 align="center">💻 Developer | 🎨 Frontend Artist | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code+%F0%9F%92%A1;Rafting+interactive+web+experience;Building+AI-Powered+Projects." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&width=435&lines=Crafting+interactive+web+experiences.;Building+AI-powered+projects.;Turning+ideas+into+code+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,git,vscode,react,flask" />
 </p>
 
 ---
@@ -17,10 +19,10 @@
 
 | Project Name | Tech | Preview |
 |--------------|------|---------|
-| [📂Portfolio-Website](https://nimish-bhargav.vercel.app/)| HTML/CSS/JS | JARVIS-style animated dashboard |
-| 🌐[Google-Homepage-Redesigned](https://google-homepage-lovat-chi.vercel.app/) | HTML/CSS/JS |Galaxy-themed-google-homepage |
-| [🎁special-gift(For someone special)](https://something-special-bay.vercel.app/) |HTML/CSS/JS | something-special-for-someone-special |
-| [🎂 Birthday Surprise Website](https://birthday-lime-theta.vercel.app/) | HTML/CSS/JS | Heartfelt animation surprise 💖 |
+| [🎧 JARVIS Start Homepage](https://github.com/Nimishbhargav/jarvis-start) | HTML/CSS/JS | JARVIS-style animated dashboard |
+| [📄 AI Resume + GitHub Generator](https://github.com/Nimishbhargav/ai-resume-generator) | Python + OpenAI | CLI tool that builds resume + README |
+| [⏳ Goal Tracker + Pomodoro App](https://github.com/Nimishbhargav/pomodoro-goals) | Python | Productivity booster with stats |
+| [🎂 Birthday Surprise Website](https://github.com/Nimishbhargav/surprise-birthday-site) | HTML/CSS/JS | Heartfelt animation surprise 💖 |
 
 ---
 
@@ -43,8 +45,9 @@
 
 ### 🌐 Let’s Connect
 
-<p align="left">
-<a href="https://instagram.com/nimish_bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimish_bhargav" height="30" width="40" /></a>
+<p align="center">
+  
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
