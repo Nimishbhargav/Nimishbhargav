@@ -47,7 +47,7 @@
 
 <p align="center">
   
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:nimishbhargav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
