@@ -10,7 +10,7 @@
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,git,vscode,react,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 | Project Name | Tech | Preview |
 |--------------|------|---------|
-| [ Google Homepage Redesigned](https://google-homepage-lovat-chi.vercel.app/) | HTML/CSS/JS | Google Homepage Redesigned |
+| [🌐 Google Homepage Redesigned](https://google-homepage-lovat-chi.vercel.app/) | HTML/CSS/JS | Google Homepage Redesigned 
 | [📄 Personal portfolio website](https://nimish-bhargav.vercel.app/) | HTML/CSS/JS |personal portfolio website |
 | [🎂 Birthday Surprise ](https://birthday-lime-theta.vercel.app/) | HTML/CSS/JS | Birthday surprise |
 | [🎁 something special](https://something-special-bay.vercel.app/) | HTML/CSS/JS | Heartfelt animation surprise 💖 |
