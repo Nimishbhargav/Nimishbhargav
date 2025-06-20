@@ -39,7 +39,8 @@
 </p>
 
 <p align="center">
-  <iframe src="https://www.gitch.art/api/og/Nimishbhargav?color=2da44e" width="1200" height="180" frameborder="0" scrolling="no"></iframe>
+  ![17504017067568981476968493798706](https://github.com/user-attachments/assets/1bf44688-59cb-4172-98ee-ba64f1b2d6d8)
+
 </p>
 
 ---
