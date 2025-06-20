@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nimishbhargav&theme=tokyonight" alt="GitHub Contribution Graph" />
+  <iframe src="https://www.gitch.art/api/og/Nimishbhargav?color=2da44e" width="1200" height="180" frameborder="0" scrolling="no"></iframe>
 </p>
 
 ---
