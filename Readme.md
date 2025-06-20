@@ -20,8 +20,8 @@
 
 | Project Name | Tech | Preview |
 |--------------|------|---------|
-| [🌐 Google Homepage Redesigned](https://google-homepage-lovat-chi.vercel.app/) | HTML/CSS/JS | Google Homepage Redesigned 
-| [📄 Personal portfolio website](https://nimish-bhargav.vercel.app/) | HTML/CSS/JS |personal portfolio website |
+| [🌐 Google Homepage Redesigned](https://google-homepage-lovat-chi.vercel.app/) | HTML/CSS/JS | Google Homepage Redesigned |
+| [📄 Personal portfolio website](https://nimish-bhargav.vercel.app/) | HTML/CSS/JS | personal portfolio website |
 | [🎂 Birthday Surprise ](https://birthday-lime-theta.vercel.app/) | HTML/CSS/JS | Birthday surprise |
 | [🎁 something special](https://something-special-bay.vercel.app/) | HTML/CSS/JS | Heartfelt animation surprise 💖 |
 
@@ -31,7 +31,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimishbhargav&show_icons=true&theme=tokyonight" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nimishbhargav" alt="GitHub Streak" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimishbhargav&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nimishbhargav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=Nimishbhargav&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -47,7 +55,6 @@
 ### 🌐 Let’s Connect
 
 <p align="center">
-  
   <a href="mailto:nimishbhargav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
