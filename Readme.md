@@ -39,7 +39,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github-contributions.vercel.app?user=Nimishbhargav" alt="Github Contributions" /></a>
+<a href="https://github.com/users/Nimishbhargav/contributions">
+    <img src="https://img.shields.io/badge/Click%20to%20View-GitHub%20Contribution%20Graph-00ffaa?style=for-the-badge&logo=github" alt="GitHub Contribution Graph Button" />
+  </a>
 
 </p>
 
