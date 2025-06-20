@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/?username=Nimishbhargav&theme=tokyonight" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nimishbhargav&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
 
 ---
