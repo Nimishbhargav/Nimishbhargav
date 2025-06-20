@@ -31,7 +31,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimishbhargav&show_icons=true&theme=tokyonight" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nimishbhargav&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nimishbhargav" alt="GitHub Streak" /></a>
 </p>
 
 ---
