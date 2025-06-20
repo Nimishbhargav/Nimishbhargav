@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  ![17504017067568981476968493798706](https://github.com/user-attachments/assets/1bf44688-59cb-4172-98ee-ba64f1b2d6d8)
+  <a href="https://github-contributions.vercel.app?user=Nimishbhargav" alt="Github Contributions" /></a>
 
 </p>
 
