@@ -38,10 +38,6 @@
   <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Nimishbhargav&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-<img src="https://github-contribution-stats.vercel.app/api/?username=Nimishbhargav />
-</p>
-
 ---
 
 ### ✨ Fun Facts
