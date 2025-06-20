@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nimishbhargav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Nimishbhargav" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
