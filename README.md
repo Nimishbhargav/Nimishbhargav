@@ -1,9 +1,9 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,35:00D9F5,70:7B61FF,100:FF4ECD&height=230&section=header&text=NIMISH%20BHARGAV&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Creative%20Technology&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Nimish Bhargav animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,35:00D9F5,70:7B61FF,100:FF4ECD&height=230&section=header&text=NIMISH%20BHARGAV&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Creative%20Technology&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Nimish Bhargav animated profile banner"/>
 
 <a href="https://github.com/Nimishbhargav">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&width=750&lines=Learning+by+building.;Exploring+AI%2FML+with+Python.;Turning+ideas+into+working+projects.;Code+by+day.+Music+in+every+chapter" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&width=750&lines=Learning+by+building.;Exploring+AI%2FML+with+Python.;Turning+ideas+into+working+projects.;Code+by+day.+Music+in+every+chapter" alt="Animated introduction"/>
 </a>
 
 <br/>
@@ -83,22 +83,22 @@ A collection of projects exploring programming, algorithms and machine learning.
 <div align="center">
 
 <a href="https://github.com/Nimishbhargav/Rule-Based-Chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Rule-Based-Chatbot&theme=tokyonight&hide_border=true" width="49%" alt="Rule-Based Chatbot repository card"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Nimishbhargav&repo=Rule-Based-Chatbot&theme=tokyonight&hide_border=true" width="49%" alt="Rule-Based Chatbot"/>
 </a>
 <a href="https://github.com/Nimishbhargav/Tic-Tac-Toe-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Tic-Tac-Toe-AI&theme=tokyonight&hide_border=true" width="49%" alt="Tic Tac Toe AI repository card"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Nimishbhargav&repo=Tic-Tac-Toe-AI&theme=tokyonight&hide_border=true" width="49%" alt="Tic Tac Toe AI"/>
 </a>
 <a href="https://github.com/Nimishbhargav/Movie-Recommendation-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true" width="49%" alt="Movie Recommendation System repository card"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Nimishbhargav&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true" width="49%" alt="Movie Recommendation System"/>
 </a>
 <a href="https://github.com/Nimishbhargav/House-Price-Prediction-ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=House-Price-Prediction-ML&theme=tokyonight&hide_border=true" width="49%" alt="House Price Prediction repository card"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Nimishbhargav&repo=House-Price-Prediction-ML&theme=tokyonight&hide_border=true" width="49%" alt="House Price Prediction"/>
 </a>
 <a href="https://github.com/Nimishbhargav/SCT_ML_02_Mall_Customer_Segmentation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=SCT_ML_02_Mall_Customer_Segmentation&theme=tokyonight&hide_border=true" width="49%" alt="Mall Customer Segmentation repository card"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Nimishbhargav&repo=SCT_ML_02_Mall_Customer_Segmentation&theme=tokyonight&hide_border=true" width="49%" alt="Mall Customer Segmentation"/>
 </a>
 <a href="https://github.com/Nimishbhargav/SCT_ML_03_Cats_vs_Dogs_Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=SCT_ML_03_Cats_vs_Dogs_Classification&theme=tokyonight&hide_border=true" width="49%" alt="Cats vs Dogs Classification repository card"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Nimishbhargav&repo=SCT_ML_03_Cats_vs_Dogs_Classification&theme=tokyonight&hide_border=true" width="49%" alt="Cats vs Dogs Classification"/>
 </a>
 
 </div>
@@ -142,9 +142,13 @@ An ongoing full-stack development project focused on managing reminders and noti
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nimishbhargav&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+<a href="https://github.com/Nimishbhargav">
+<img src="https://github-stats-extended.vercel.app/api?username=Nimishbhargav&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub statistics"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimishbhargav&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<a href="https://github.com/Nimishbhargav">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nimishbhargav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
+</a>
 
 <br/><br/>
 
