@@ -1,249 +1,237 @@
- 
+# 🌌 NIMISH BHARGAV — Developer • AI/ML Explorer • Musician
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NIMISH%20BHARGAV&fontSize=58&color=0:090979,50:1E3A8A,100:00D4FF&stroke=00D4FF&strokeWidth=1&animation=fadeIn&fontColor=ffffff&desc=CODE%20%7C%20CREATE%20%7C%20EVOLVE&descSize=18&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B18,45:30205C,100:00C9D8&text=NIMISH%20BHARGAV&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://github.com/Nimishbhargav.png" width="145" style="border-radius:50%;" alt="Nimish GitHub Profile"/>
-
-# Hey, I'm Nimish! 👋
-
-### B.Tech CSE | AI & ML | Developer | Music Enthusiast
-
-*Building my skills, one project at a time.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=65E6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI%2FML+Student;Developer+%7C+Problem+Solver;Exploring+Artificial+Intelligence;Learning.+Building.+Improving.;Code+Meets+Creativity." alt="Typing introduction" />
 
 <br/>
 
 <a href="https://github.com/Nimishbhargav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Nimishbhargav-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/Nimishbhargav?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-0969DA?style=for-the-badge&logo=github"/>
+<a href="https://instagram.com/bhargavnimish">
+<img src="https://img.shields.io/badge/Instagram-Connect-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+<a href="https://nimish-bhargav.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🌌 THE PERSON BEHIND THE CODE
+## ◈ 01 — About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding animation"/>
+<img align="right" width="240" src="https://github.com/Nimishbhargav.png" alt="Nimish's GitHub avatar" />
 
-I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning.
+Hey! I'm **Nimish**, a B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning.
 
-I enjoy exploring technology, understanding how things work, and turning ideas into practical projects.
+I'm interested in building useful software, exploring intelligent systems and improving my problem-solving skills.
 
-- 🎓 Computer Science & Engineering — AI/ML
-- 💻 Learning software development and problem-solving
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🚀 Building projects to apply what I learn
-- 🎸 Learning guitar, vocals and music production
-- 🌱 Focused on continuous improvement
+- 🎓 Computer Science Engineering — AI/ML
+- 💻 Interested in Software Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🧠 Practising Data Structures & Algorithms
+- 🎸 Learning Guitar, Singing & Music Production
+- 🚀 Building projects and learning through experimentation
+
+> "Consistency creates what motivation only imagines."
 
 <br clear="right"/>
 
 ---
 
-# ⚡ MY TECHNOLOGY UNIVERSE
+## ◈ 02 — Tech Universe
+
+<div align="center">
 
 ### Languages
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Programming languages"/>
-</div>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Programming languages" />
 
-### Development Tools & Technologies
+### Development & Database
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,git,github,vscode&theme=dark" alt="Development tools"/>
-</div>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,git,github,vscode&theme=dark" alt="Development tools" />
 
-### AI / ML & Data Science
+### AI / ML & Learning
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/NumPy-Python-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-27338e?style=for-the-badge&logo=opencv"/>
+<img src="https://skillicons.dev/icons?i=python,opencv,sklearn&theme=dark" alt="AI and ML technologies" />
 
 </div>
 
 ---
 
-# 🚀 PROJECT SHOWCASE
+## ◈ 03 — Featured Projects
 
-*Some of the projects I've worked on and explored.*
+A collection of projects I've worked on while exploring programming, algorithms and machine learning.
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 01 — Rule-Based Chatbot
+### 🤖 Rule-Based Chatbot
 
-<a href="https://github.com/Nimishbhargav/Rule-Based-Chatbot">
-<img src="https://opengraph.githubassets.com/1/Nimishbhargav/Rule-Based-Chatbot" width="85%" alt="Rule-Based Chatbot repository preview"/>
-</a>
+<img src="https://opengraph.githubassets.com/1/Nimishbhargav/Rule-Based-Chatbot" width="100%" alt="Rule-Based Chatbot repository preview" />
 
-**Python · Regex · Intent Mapping**
+A Python chatbot that responds to user input through rule-based pattern matching and regular expressions.
+
+**Tech:** Python
+
+[↗ View Repository](https://github.com/Nimishbhargav/Rule-Based-Chatbot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Tic-Tac-Toe AI
+
+<img src="https://opengraph.githubassets.com/1/Nimishbhargav/Tic-Tac-Toe-AI" width="100%" alt="Tic-Tac-Toe AI repository preview" />
+
+An unbeatable Tic-Tac-Toe opponent using the Minimax algorithm and Alpha-Beta Pruning.
+
+**Tech:** Python, AI Algorithms
+
+[↗ View Repository](https://github.com/Nimishbhargav/Tic-Tac-Toe-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Movie Recommendation System
+
+<img src="https://opengraph.githubassets.com/1/Nimishbhargav/Movie-Recommendation-System" width="100%" alt="Movie Recommendation repository preview" />
+
+A content-based recommendation system using TF-IDF vectorization and cosine similarity.
+
+**Tech:** Python, Machine Learning
+
+[↗ View Repository](https://github.com/Nimishbhargav/Movie-Recommendation-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+
+<img src="https://opengraph.githubassets.com/1/Nimishbhargav/House-Price-Prediction-ML" width="100%" alt="House Price Prediction repository preview" />
+
+A machine learning project focused on predicting house prices from available data.
+
+**Tech:** Python, Jupyter Notebook, ML
+
+[↗ View Repository](https://github.com/Nimishbhargav/House-Price-Prediction-ML)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Mall Customer Segmentation
+
+<img src="https://opengraph.githubassets.com/1/Nimishbhargav/SCT_ML_02_Mall_Customer_Segmentation" width="100%" alt="Mall Customer Segmentation repository preview" />
+
+Customer segmentation using K-Means clustering, data visualization and business insights.
+
+**Tech:** Python, K-Means, Data Analysis
+
+[↗ View Repository](https://github.com/Nimishbhargav/SCT_ML_02_Mall_Customer_Segmentation)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐶 Cats vs Dogs Classification
+
+<img src="https://opengraph.githubassets.com/1/Nimishbhargav/SCT_ML_03_Cats_vs_Dogs_Classification" width="100%" alt="Cats vs Dogs repository preview" />
+
+An image classification project using SVM, OpenCV and Scikit-learn.
+
+**Tech:** Python, OpenCV, SVM
+
+[↗ View Repository](https://github.com/Nimishbhargav/SCT_ML_03_Cats_vs_Dogs_Classification)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 02 — Tic Tac Toe AI
+## ◈ 04 — Currently Building
 
-<a href="https://github.com/Nimishbhargav/Tic-Tac-Toe-AI">
-<img src="https://opengraph.githubassets.com/1/Nimishbhargav/Tic-Tac-Toe-AI" width="85%" alt="Tic Tac Toe AI repository preview"/>
-</a>
+### NotifyMe — Automated Notification System
 
-**Game Logic · Minimax · Artificial Intelligence**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111827,100:312E81&text=NOTIFYME&fontColor=FFFFFF&fontSize=32&fontAlign=50&fontAlignY=55" width="100%" alt="NotifyMe project banner" />
 
----
+A reminder and notification management platform designed to make event reminders easier to manage.
 
-### 03 — Movie Recommendation System
+**Planned technology stack**
 
-<a href="https://github.com/Nimishbhargav/Movie-Recommendation-System">
-<img src="https://opengraph.githubassets.com/1/Nimishbhargav/Movie-Recommendation-System" width="85%" alt="Movie Recommendation System repository preview"/>
-</a>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,js,html,css&theme=dark" alt="NotifyMe technology stack" />
 
-**Python · Recommendation Systems · TF-IDF**
-
----
-
-### 04 — House Price Prediction
-
-<a href="https://github.com/Nimishbhargav/House-Price-Prediction-ML">
-<img src="https://opengraph.githubassets.com/1/Nimishbhargav/House-Price-Prediction-ML" width="85%" alt="House Price Prediction repository preview"/>
-</a>
-
-**Machine Learning · Regression**
-
----
-
-### 05 — Mall Customer Segmentation
-
-<a href="https://github.com/Nimishbhargav/SCT_ML_02_Mall_Customer_Segmentation">
-<img src="https://opengraph.githubassets.com/1/Nimishbhargav/SCT_ML_02_Mall_Customer_Segmentation" width="85%" alt="Mall Customer Segmentation repository preview"/>
-</a>
-
-**Python · K-Means Clustering**
-
----
-
-### 06 — Cats vs Dogs Classification
-
-<a href="https://github.com/Nimishbhargav/SCT_ML_03_Cats_vs_Dogs_Classification">
-<img src="https://opengraph.githubassets.com/1/Nimishbhargav/SCT_ML_03_Cats_vs_Dogs_Classification" width="85%" alt="Cats vs Dogs Classification repository preview"/>
-</a>
-
-**Machine Learning · Image Classification**
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Nimishbhargav?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-Visit%20Repositories-238636?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 🏗️ CURRENTLY BUILDING — NOTIFYME
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&theme=dark" alt="NotifyMe technology stack"/>
-
-### Automated Email / SMS Notification System
-
-</div>
-
-A reminder management application focused on helping users organize events and receive notifications.
-
-**Planned features:**
-
+**Planned features**
 - User registration and authentication
 - Create and manage reminders
 - Email and SMS notification options
 - Reminder status dashboard
-- Edit and delete reminders
+- Edit and delete reminder functionality
 
-<sub>Project status: In Development</sub>
+<sub>Currently in development — features and implementation may change.</sub>
 
 ---
 
-# 🎯 WHAT I'M WORKING TOWARDS
+## ◈ 05 — Beyond The Code
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mysql&theme=dark" alt="Current learning technologies"/>
+<img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=1000&q=85" width="85%" alt="Acoustic guitar and music workspace" />
+
+### 🎸 Music is another language I love exploring.
+
+Outside programming, I'm learning acoustic guitar, vocals and music production.
+
+My long-term goal is to combine creativity and technology while developing my own identity as a musician.
+
+**Code by day. Music by passion.**
 
 </div>
 
-| Focus | Direction |
+---
+
+## ◈ 06 — Current Learning Roadmap
+
+| Area | Focus |
 |---|---|
-| DSA | Strong problem-solving fundamentals |
-| Java | Core programming and algorithms |
-| AI / ML | Understanding and implementing ML concepts |
-| Development | Building complete applications |
-| NotifyMe | Developing a functional notification system |
-| Music | Guitar, vocals and production |
+| Programming | Java, Python, JavaScript |
+| Problem Solving | Data Structures & Algorithms |
+| AI / ML | Machine Learning fundamentals |
+| Development | React, Node.js, Express |
+| Database | MySQL |
+| Creative | Guitar, vocals, music production |
 
 ---
 
-# 🎵 THE OTHER SIDE OF ME
+## ◈ 07 — Let's Connect
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=1000&q=85" width="90%" alt="Acoustic guitar and music setup"/>
-
-### Beyond programming, there's music.
-
-</div>
-
-Music is another part of my creative journey.
-
-- 🎸 Acoustic guitar practice
-- 🎤 Vocal development
-- 🎧 Learning music production
-- 🎼 Exploring music theory and ear training
-
-**Inspired by music that feels authentic. Working towards finding my own sound.**
-
----
-
-# 🧭 MY PHILOSOPHY
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1000&q=85" width="90%" alt="Mountain landscape under a starry sky"/>
-
-### LEARN. BUILD. FAIL. IMPROVE. REPEAT.
-
-*Consistency over shortcuts. Progress over perfection.*
-
-</div>
-
----
-
-# 🤝 CONNECT WITH ME
-
-<div align="center">
+If you're interested in technology, AI/ML, development or creative projects, feel free to connect.
 
 <a href="https://github.com/Nimishbhargav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://instagram.com/bhargavnimish">
+<img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://nimish-bhargav.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nimishbhargav&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C9D8,50:30205C,100:080B18&section=footer" width="100%" />
 
-<br/><br/>
+**BUILD • LEARN • CREATE • REPEAT**
 
-**Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:090979,50:1E3A8A,100:00D4FF" width="100%"/>
+<sub>Designed with curiosity by Nimish Bhargav</sub>
 
 </div>
