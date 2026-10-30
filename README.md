@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,35:00D9F5,70:7B61FF,100:FF4ECD&height=230&section=header&text=NIMISH%20BHARGAV&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Creative%20Technology&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Nimish Bhargav animated profile banner" />
 
 <a href="https://github.com/Nimishbhargav">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&width=750&lines=Learning+by+building.;Exploring+AI%2FML+with+Python.;Turning+ideas+into+working+projects.;Code+by+day.+Music+in+every+chapter." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&width=750&lines=Learning+by+building.;Exploring+AI%2FML+with+Python.;Turning+ideas+into+working+projects.;Code+by+day.+Music+in+every+chapter" alt="Animated introduction" />
 </a>
 
 <br/>
@@ -65,10 +65,10 @@ class Nimish:
 
 **AI / Machine Learning**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7B61FF?style=for-the-badge" alt="Machine Learning"/>
 
 </div>
 
@@ -83,22 +83,22 @@ A collection of projects exploring programming, algorithms and machine learning.
 <div align="center">
 
 <a href="https://github.com/Nimishbhargav/Rule-Based-Chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Rule-Based-Chatbot&theme=tokyonight&hide_border=true" alt="Rule-Based Chatbot"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Rule-Based-Chatbot&theme=tokyonight&hide_border=true" width="49%" alt="Rule-Based Chatbot repository card"/>
 </a>
 <a href="https://github.com/Nimishbhargav/Tic-Tac-Toe-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Tic-Tac-Toe-AI&theme=tokyonight&hide_border=true" alt="Tic Tac Toe AI"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Tic-Tac-Toe-AI&theme=tokyonight&hide_border=true" width="49%" alt="Tic Tac Toe AI repository card"/>
 </a>
 <a href="https://github.com/Nimishbhargav/Movie-Recommendation-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true" alt="Movie Recommendation System"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true" width="49%" alt="Movie Recommendation System repository card"/>
 </a>
 <a href="https://github.com/Nimishbhargav/House-Price-Prediction-ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=House-Price-Prediction-ML&theme=tokyonight&hide_border=true" alt="House Price Prediction"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=House-Price-Prediction-ML&theme=tokyonight&hide_border=true" width="49%" alt="House Price Prediction repository card"/>
 </a>
 <a href="https://github.com/Nimishbhargav/SCT_ML_02_Mall_Customer_Segmentation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=SCT_ML_02_Mall_Customer_Segmentation&theme=tokyonight&hide_border=true" alt="Mall Customer Segmentation"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=SCT_ML_02_Mall_Customer_Segmentation&theme=tokyonight&hide_border=true" width="49%" alt="Mall Customer Segmentation repository card"/>
 </a>
 <a href="https://github.com/Nimishbhargav/SCT_ML_03_Cats_vs_Dogs_Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=SCT_ML_03_Cats_vs_Dogs_Classification&theme=tokyonight&hide_border=true" alt="Cats vs Dogs Classification"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nimishbhargav&repo=SCT_ML_03_Cats_vs_Dogs_Classification&theme=tokyonight&hide_border=true" width="49%" alt="Cats vs Dogs Classification repository card"/>
 </a>
 
 </div>
@@ -125,9 +125,9 @@ A collection of projects exploring programming, algorithms and machine learning.
 
 An ongoing full-stack development project focused on managing reminders and notification workflows.
 
-**Planned and explored technologies:**
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,html,css,js&theme=dark" alt="NotifyMe technologies"/>
+</div>
 
 - Reminder creation and management.
 - Email and SMS notification workflows.
@@ -183,9 +183,9 @@ I'm still learning. When I have original recordings ready to share, this section
 
 ### `slow is smooth • smooth is fast`
 
-**Consistency over shortcuts.  
-Progress over perfection.  
-Learning over pretending.**
+**Consistency over shortcuts.**  
+**Progress over perfection.**  
+**Learning over pretending.**
 
 <br/>
 
