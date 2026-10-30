@@ -70,98 +70,18 @@ I enjoy exploring technology, building projects, solving problems and learning h
 
 `03 / PROJECT ARCHIVE`
 
-## Selected Projects
+### 🚀 Featured Projects
 
-*Experiments, algorithms and practical implementations.*
+| Project | Repository |
+|---|---|
+| 🤖 **Rule-Based Chatbot** | [<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>](https://github.com/Nimishbhargav/Rule-Based-Chatbot) |
+| 🎮 **Tic-Tac-Toe AI** | [<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>](https://github.com/Nimishbhargav/Tic-Tac-Toe-AI) |
+| 🎬 **Movie Recommendation System** | [<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>](https://github.com/Nimishbhargav/Movie-Recommendation-System) |
+| 🏠 **House Price Prediction ML** | [<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>](https://github.com/Nimishbhargav/House-Price-Prediction-ML) |
+| 📊 **Mall Customer Segmentation** | [<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>](https://github.com/Nimishbhargav/SCT_ML_02_Mall_Customer_Segmentation) |
+| 🐱 **Cats vs Dogs Classification** | [<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>](https://github.com/Nimishbhargav/SCT_ML_03_Cats_vs_Dogs_Classification) |
 
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Rule-Based Chatbot
-
-A Python chatbot that uses predefined rules and pattern matching to respond to user input.
-
-**Stack:** Python
-
-[View Source →](https://github.com/Nimishbhargav/Rule-Based-Chatbot)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Tic-Tac-Toe AI
-
-An AI-based Tic-Tac-Toe project exploring intelligent decision-making using the Minimax algorithm.
-
-**Stack:** Python, AI Algorithms
-
-[View Source →](https://github.com/Nimishbhargav/Tic-Tac-Toe-AI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommendation System
-
-A recommendation system exploring content similarity and movie recommendations.
-
-**Stack:** Python, Machine Learning
-
-[View Source →](https://github.com/Nimishbhargav/Movie-Recommendation-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 House Price Prediction
-
-A machine learning project focused on predicting house prices using available data.
-
-**Stack:** Python, Machine Learning
-
-[View Source →](https://github.com/Nimishbhargav/House-Price-Prediction-ML)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Mall Customer Segmentation
-
-An unsupervised learning project exploring customer segmentation through clustering.
-
-**Stack:** Python, K-Means, Data Analysis
-
-[View Source →](https://github.com/Nimishbhargav/SCT_ML_02_Mall_Customer_Segmentation)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐶 Cats vs Dogs Classification
-
-An image classification project exploring machine learning techniques for visual recognition.
-
-**Stack:** Python, OpenCV, SVM
-
-[View Source →](https://github.com/Nimishbhargav/SCT_ML_03_Cats_vs_Dogs_Classification)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### ◈ The complete project collection
-
-[![Explore repositories](https://img.shields.io/badge/OPEN-ALL%20PUBLIC%20REPOSITORIES-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nimishbhargav?tab=repositories)
-
-</div>
-
----
-
-<div align="center">
+[![Explore All Repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-Explore%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nimishbhargav?tab=repositories)
 
 `04 / CURRENT DEVELOPMENT`
 
